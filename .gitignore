@@ -1,0 +1,17 @@
+/test_download.ipynb
+/tgi
+/tgi_qwen.ipynb
+/vllm_pixtral_12b.ipynb
+/chunking strategy.ipynb
+/volume
+/input
+/output
+/failed
+/env_vrag
+/input_test_document
+/ouyput_test_document
+async_vllm.ipynb
+gui_api.py
+gui.py
+_draft*
+__pycache__
