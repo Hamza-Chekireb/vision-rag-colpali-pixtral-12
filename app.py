@@ -2,7 +2,7 @@
 # 0.requirement importation
 # Pytorch Data Loader Object
 from torch.utils.data import DataLoader
-#
+# 
 from fastapi import FastAPI
 # Pytorch Library
 import torch

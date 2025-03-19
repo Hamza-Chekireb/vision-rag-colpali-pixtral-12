@@ -7,7 +7,7 @@ airportsdata==20241001
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.7.0
-astor==0.8.1
+astor==0.8.1 
 asttokens==3.0.0
 async-timeout==5.0.1
 attrs==24.3.0

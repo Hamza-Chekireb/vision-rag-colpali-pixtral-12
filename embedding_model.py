@@ -1,4 +1,4 @@
-#%%
+#%% 
 # Colpali Model
 from colpali_engine.models import ColPali
 
